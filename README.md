@@ -10,7 +10,7 @@ See how sorting algorithms work step by step.
 
 ## How To Use?
 
-- [x] Open the project using and IDE.
+- [x] Open the project using any Java IDE.
 
 - [x] Pick which algorithm do you want to see and comment out the other.
 
